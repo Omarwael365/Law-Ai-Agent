@@ -1,0 +1,58 @@
+AIA DOCUMENT A101 — STANDARD FORM OF AGREEMENT
+BETWEEN OWNER AND CONTRACTOR
+
+This Agreement is entered into as of February 1, 2021, by and between:
+
+Greenfield Properties LLC ("Owner")
+and
+Summit Builders Inc. ("Contractor")
+
+ARTICLE 1 — THE WORK
+1.1 The Contractor shall perform all Work required by the Contract Documents for the construction of a 45,000 square-foot commercial office building located at 1200 Market Street, Denver, Colorado (the "Project").
+
+ARTICLE 2 — CONTRACT SUM
+2.1 The Contract Sum is Five Million Dollars ($5,000,000.00), subject to adjustments as provided in the Contract Documents.
+2.2 The Contract Sum is a Stipulated Sum (fixed price).
+
+ARTICLE 3 — CONTRACT TIME
+3.1 Work shall commence within 10 days of Notice to Proceed.
+3.2 Substantial Completion: December 31, 2021.
+3.3 Final Completion: January 31, 2022.
+
+ARTICLE 4 — PAYMENT
+4.1 Monthly progress payments based on percentage of Work completed.
+4.2 Retainage: 10% held until Substantial Completion.
+4.3 Final payment within 30 days of Final Completion.
+
+ARTICLE 5 — SCOPE OF WORK
+5.1 General construction per architectural drawings A-100 through A-450.
+5.2 Standard HVAC installation per mechanical specifications M-100.
+5.3 Standard electrical per electrical specifications E-100.
+5.4 Standard facade: aluminum curtain wall system per A-300.
+
+ARTICLE 7 — CHANGES IN THE WORK
+7.1 The Owner may order changes in the Work within the general scope of the Contract.
+7.2 A Change Order is a written instrument prepared by the Architect and signed by the Owner, Contractor, and Architect stating their agreement upon: (a) a change in the Work; (b) the amount of adjustment in the Contract Sum; and (c) the extent of adjustment in the Contract Time.
+7.3 Construction Change Directives may be issued by the Owner without Contractor agreement on price, subject to later resolution.
+7.4 Minor changes in the Work not involving adjustment to Contract Sum or Time may be issued by the Architect.
+7.5 All change orders must be documented in writing and approved before work commences.
+
+ARTICLE 8 — CLAIMS AND DISPUTES
+8.1 Claims shall be initiated within 21 days of the event giving rise to the claim.
+8.2 Disputes shall first be submitted to the Architect for initial decision.
+8.3 Unresolved disputes shall proceed to mediation, then binding arbitration.
+
+ARTICLE 9 — INSURANCE AND BONDS
+9.1 Contractor shall maintain general liability insurance of $2,000,000 per occurrence.
+9.2 Performance and payment bonds required.
+
+ARTICLE 10 — GOVERNING LAW
+10.1 This Agreement shall be governed by the laws of the State of Colorado.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+GREENFIELD PROPERTIES LLC           SUMMIT BUILDERS INC.
+By: ___________________             By: ___________________
+Name: Catherine Greenfield           Name: James Summit
+Title: Managing Member              Title: President
+Date: February 1, 2021             Date: February 1, 2021

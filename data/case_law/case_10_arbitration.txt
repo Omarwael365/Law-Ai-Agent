@@ -1,0 +1,54 @@
+CASE NO. 2023-CV-07723
+CONSUMER PROTECTION BUREAU v. STREAMPLUS INC.
+United States District Court, Central District of California
+Filed: May 15, 2023
+
+OPINION AND ORDER
+
+BACKGROUND
+
+StreamPlus Inc. ("StreamPlus") operates a video streaming service with approximately 8 million subscribers. Its online Terms of Service ("ToS"), last updated January 2023, contain the following provisions:
+
+Section 14.1 (Arbitration): "Any dispute arising out of or relating to these Terms shall be resolved exclusively by binding arbitration administered by the American Arbitration Association under its Consumer Arbitration Rules. The arbitration shall be conducted in San Francisco, California."
+
+Section 14.3 (Class Action Waiver): "You agree to resolve disputes only on an individual basis and waive any right to participate in a class action lawsuit or class-wide arbitration."
+
+A group of 12,000 consumers alleges that StreamPlus systematically overcharged subscribers $15 per month by enrolling them in premium tiers without consent, resulting in $180 per year in overcharges per subscriber over three years ($540 total per person).
+
+The consumers argue that mandatory individual arbitration is unconscionable because: (1) the AAA filing fee is $200; (2) estimated legal costs for individual arbitration exceed $5,000; (3) the maximum individual recovery is $540; and (4) no rational consumer would pursue individual arbitration where costs exceed recovery.
+
+ANALYSIS
+
+I. AT&T Mobility v. Concepcion Framework
+
+In AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011), the Supreme Court held that the Federal Arbitration Act (FAA) preempts state laws that condition enforcement of arbitration agreements on the availability of class-wide arbitration procedures. The FAA establishes a strong federal policy favoring arbitration.
+
+Under Concepcion, state-law unconscionability doctrines that have the effect of disfavoring arbitration are preempted. California's Discover Bank rule — which held class action waivers unconscionable in consumer adhesion contracts — was expressly overruled.
+
+II. Effective Vindication Exception
+
+However, the Supreme Court in American Express Co. v. Italian Colors Restaurant, 570 U.S. 228 (2013), recognized a narrow "effective vindication" exception: an arbitration clause is unenforceable if it prevents the effective vindication of a federal statutory right.
+
+The consumers invoke this exception, arguing that the economics of individual arbitration make it impossible to vindicate their state consumer protection claims. The court notes that Italian Colors set a high bar: the exception applies only where the arbitration clause operates as a "prospective waiver" of a party's right to pursue statutory remedies.
+
+III. Unconscionability Analysis
+
+California courts apply a sliding scale approach to unconscionability, requiring both procedural and substantive unconscionability:
+
+Procedural Unconscionability: The ToS is a contract of adhesion — consumers must accept all terms to use the service, with no opportunity to negotiate. The arbitration clause is not separately highlighted or acknowledged. The court finds moderate procedural unconscionability.
+
+Substantive Unconscionability: The economic analysis is stark. Individual arbitration costs ($200 filing + $5,000+ legal fees) exceed the maximum recovery ($540) by a factor of nearly 10:1. This creates a de facto immunity for StreamPlus — no rational consumer would spend $5,200 to recover $540. The class of 12,000 consumers collectively lost $6,480,000, but no individual has an economically viable path to recovery through individual arbitration. The court finds high substantive unconscionability.
+
+IV. Public Policy Considerations
+
+The California Legislature has expressed a strong public policy in favor of consumer protection through the Consumer Legal Remedies Act (CLRA) and the Unfair Competition Law (UCL). Where a company's alleged conduct affects millions of consumers but individual claims are too small to pursue, the class action mechanism serves an essential enforcement function.
+
+The court recognizes the tension between the FAA's pro-arbitration policy and state consumer protection interests. However, the court finds that in this specific case, enforcing the class action waiver would effectively immunize StreamPlus from liability for systematic overcharging.
+
+ORDER
+
+1. StreamPlus's motion to compel individual arbitration is DENIED.
+2. The class action waiver in Section 14.3 is found UNCONSCIONABLE under California law as applied to these facts.
+3. The case may proceed as a class action. Plaintiffs shall file a motion for class certification within 60 days.
+
+SO ORDERED.

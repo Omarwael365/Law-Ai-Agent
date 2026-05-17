@@ -1,0 +1,58 @@
+CASE NO. C-2022-0391
+EUROPEAN DATA PROTECTION AUTHORITY v. FINOVA TECHNOLOGIES GmbH
+European Court of Justice, Third Chamber
+Filed: November 8, 2022
+
+JUDGMENT
+
+FACTS OF THE CASE
+
+FinovaTech GmbH ("FinovaTech"), a financial technology company incorporated in Germany, provides digital banking services to approximately 2.3 million customers across the European Economic Area. FinovaTech contracted with CloudSecure Ltd. ("CloudSecure"), a cloud infrastructure provider based in Ireland, to host and process customer data.
+
+The parties executed a Data Processing Agreement ("DPA") dated January 15, 2021, designating CloudSecure as a data processor under Article 28 of the General Data Protection Regulation (GDPR). Section 7 of the DPA states:
+
+"The Processor shall implement and maintain appropriate technical and organizational measures to ensure a level of security appropriate to the risk, including industry-standard security measures to protect Personal Data against unauthorized or unlawful processing and against accidental loss, destruction, or damage."
+
+On August 3, 2022, CloudSecure suffered a security breach resulting from an unpatched vulnerability in its server infrastructure. The breach exposed personal data of approximately 500,000 FinovaTech customers, including names, email addresses, account balances, and transaction histories. CloudSecure did not encrypt the data at rest, citing that encryption was not explicitly required by the DPA.
+
+ANALYSIS
+
+I. Data Processor vs. Joint Controller
+
+Under Article 26 GDPR, joint controllership exists where two or more controllers jointly determine the purposes and means of processing. The court examines whether CloudSecure exercised sufficient independent decision-making to qualify as a joint controller.
+
+The evidence shows that CloudSecure independently determined the technical infrastructure, security protocols, and data storage locations without FinovaTech's input. Under the Fashion ID GmbH decision (C-40/17), a party that exercises independent influence over the means of processing may be classified as a joint controller for the relevant processing operations.
+
+However, in this case, CloudSecure's independent decisions related solely to the technical means of processing, not to the purposes. The purpose of processing — providing banking services — was determined exclusively by FinovaTech. The court concludes that CloudSecure is a data processor, not a joint controller.
+
+II. Article 32 Security Obligations
+
+Article 32(1) requires that controllers and processors implement appropriate technical and organizational measures including, "as appropriate": (a) pseudonymization and encryption of personal data; (b) the ability to ensure ongoing confidentiality; (c) the ability to restore availability; and (d) regular testing and evaluation.
+
+The DPA's reference to "industry-standard security measures" is insufficient to satisfy Article 32. The Regulation requires a risk-based assessment specific to the nature, scope, context, and purposes of processing. Financial data is classified as high-risk data requiring enhanced protection.
+
+CloudSecure's failure to encrypt data at rest, despite processing financial data for 2.3 million customers, constitutes a violation of Article 32(1)(a). The argument that encryption was not explicitly required by the DPA is without merit — Article 32 imposes direct obligations on processors regardless of contractual provisions.
+
+III. Maximum Fine Under Article 83
+
+Under Article 83(4) GDPR, infringements of Article 32 are subject to administrative fines up to €10,000,000 or 2% of the total worldwide annual turnover, whichever is higher.
+
+Under Article 83(5), infringements of the basic principles for processing (Articles 5, 6, 7, 9) are subject to fines up to €20,000,000 or 4% of annual turnover.
+
+The breach in this case constitutes a violation of Article 32 (security) and Article 5(1)(f) (integrity and confidentiality principle). The maximum applicable fine is therefore calculated under Article 83(5).
+
+IV. Contractual Liability Limitation
+
+Section 12 of the DPA limits CloudSecure's aggregate liability to "the fees paid by Customer in the twelve (12) months preceding the claim." FinovaTech paid approximately €840,000 in hosting fees during the relevant period.
+
+Under established EU case law, contractual limitations on liability cannot override regulatory obligations imposed by GDPR. The DPA's liability cap applies to contractual claims between the parties but does not limit GDPR administrative fines or data subject claims for damages under Article 82.
+
+RULING
+
+1. CloudSecure is classified as a data processor under Article 28 GDPR.
+2. CloudSecure violated Article 32(1) by failing to implement appropriate security measures, specifically encryption of financial data at rest.
+3. An administrative fine of €4,750,000 is imposed on CloudSecure.
+4. FinovaTech is ordered to conduct a comprehensive security audit and update all DPAs to include specific technical requirements.
+5. The DPA's contractual liability cap does not limit GDPR regulatory fines or Article 82 damages claims.
+
+SO ORDERED.

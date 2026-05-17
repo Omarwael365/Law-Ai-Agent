@@ -1,0 +1,54 @@
+CASE NO. 2023-CV-01247
+NEXAGEN LABS INC. v. DR. PRIYA SHARMA
+United States District Court, Northern District of California
+Filed: February 14, 2023
+
+OPINION AND ORDER
+
+BACKGROUND
+
+Dr. Priya Sharma ("Sharma") was employed as a Senior Data Scientist at NexaGen Labs Inc. ("NexaGen") from June 2020 to December 2022. During her employment, Sharma signed an Intellectual Property Assignment Agreement (the "IP Agreement") containing the following provision (Section 3.1):
+
+"Employee hereby assigns to the Company all right, title, and interest in and to any and all Inventions, whether or not patentable, that are conceived, developed, or reduced to practice by Employee, solely or jointly with others, during the period of Employee's employment with the Company."
+
+The IP Agreement defined "Inventions" as:
+
+"Any ideas, inventions, discoveries, improvements, trade secrets, original works of authorship, designs, formulas, algorithms, software programs, data, know-how, and all related intellectual property rights."
+
+Between September 2022 and December 2022, Sharma developed a novel machine learning algorithm for medical image classification (the "Algorithm") during evening and weekend hours, on her personal laptop, using publicly available datasets and her own computational resources. The Algorithm was unrelated to NexaGen's primary business of agricultural biotechnology.
+
+NexaGen claims ownership of the Algorithm under the IP Agreement and seeks injunctive relief and a declaratory judgment.
+
+ANALYSIS
+
+I. California Labor Code Sections 2870-2872
+
+California Labor Code Section 2870(a) provides:
+
+"Any provision in an employment agreement which provides that an employee shall assign, or offer to assign, any of his or her rights in an invention to his or her employer shall not apply to an invention that the employee developed entirely on his or her own time without using the employer's equipment, supplies, facilities, or trade secret information except for those inventions that either: (1) Relate at the time of conception or reduction to practice of the invention to the employer's business, or actual or demonstrably anticipated research or development of the employer; or (2) Result from any work performed by the employee for the employer."
+
+The court examines each element:
+
+A. Developed Entirely on Employee's Own Time: The evidence demonstrates that Sharma developed the Algorithm exclusively during evening and weekend hours outside of her regular work schedule. NexaGen has presented no evidence that any development occurred during work hours.
+
+B. Without Using Employer's Equipment, Supplies, Facilities, or Trade Secret Information: Sharma used her personal laptop, personal cloud computing credits, and publicly available medical imaging datasets. She did not use NexaGen's proprietary data, servers, or any confidential information belonging to NexaGen.
+
+C. Relation to Employer's Business: NexaGen operates in agricultural biotechnology, specifically crop yield optimization using genomic data. Sharma's Algorithm addresses medical image classification — a fundamentally different domain. NexaGen argues that both involve "machine learning" and therefore the Algorithm relates to its business. The court rejects this argument. The relevant inquiry is whether the invention relates to the employer's actual business or research, not whether it uses similar general-purpose tools. Machine learning is a broadly applicable technology, and every ML algorithm developed by an employee does not automatically relate to the employer's business merely because the employer also uses ML.
+
+D. Result from Work Performed for Employer: The Algorithm does not result from any work Sharma performed for NexaGen. Her work at NexaGen involved crop yield models using tabular genomic data, not convolutional neural networks for image classification.
+
+II. Overbreadth of the IP Clause
+
+Even setting aside Section 2870, the court finds that NexaGen's IP clause is overbroad. The clause assigns "any and all Inventions... conceived, developed, or reduced to practice... during the period of Employee's employment" without any limitation related to the employer's business or use of employer resources. Under California law, such provisions are unenforceable to the extent they conflict with Section 2870. Employers are required under Section 2872 to notify employees of their rights under Section 2870, which NexaGen failed to do.
+
+III. Remedies
+
+The court finds that Sharma is the sole owner of the Algorithm. NexaGen's IP clause, as applied to the Algorithm, is unenforceable under California Labor Code Sections 2870-2872.
+
+ORDER
+
+1. NexaGen's motion for a preliminary injunction is DENIED.
+2. Declaratory judgment is entered in favor of Dr. Sharma: the Algorithm is her sole intellectual property.
+3. NexaGen is ordered to provide Section 2870 notice to all current employees within 30 days.
+
+SO ORDERED.

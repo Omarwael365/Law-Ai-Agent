@@ -1,0 +1,54 @@
+LOGISTICS SERVICES AGREEMENT
+
+This Logistics Services Agreement ("Agreement") is entered into as of June 1, 2021, by and between:
+
+PeakCommerce PLC, a company incorporated in England and Wales ("Customer")
+and
+RapidShip Logistics Ltd., a company incorporated in England and Wales ("Service Provider")
+
+1. SERVICES
+1.1 Service Provider shall provide package delivery services during the peak holiday season (October 1 through December 31, 2021).
+1.2 Total package volume: 10,000 packages.
+1.3 Delivery timeframes are specified in Schedule 1.
+
+2. SERVICE LEVELS
+2.1 On-time delivery rate: minimum 95%.
+2.2 Damage rate: maximum 0.5%.
+2.3 Customer satisfaction score: minimum 4.2/5.0.
+
+3. PRICING
+3.1 Per-package delivery fee: GBP 12.50 for standard delivery, GBP 25.00 for express.
+3.2 Volume discounts apply above 5,000 packages as per Schedule 2.
+
+4. INSURANCE
+4.1 Service Provider shall maintain cargo insurance covering loss or damage up to GBP 500 per package.
+
+5. REPORTING
+5.1 Service Provider shall provide daily delivery status reports.
+5.2 Weekly performance reviews shall be conducted during the contract period.
+
+9. LIQUIDATED DAMAGES
+9.1 The parties acknowledge that late delivery during the peak holiday season will cause Customer significant harm that is difficult to quantify precisely.
+9.2 In the event of delay in delivery, the Service Provider shall pay to the Customer liquidated damages in the amount of GBP 50 per package per day of delay, as a genuine pre-estimate of the loss that would be suffered by the Customer.
+9.3 Liquidated damages shall be the Customer's sole and exclusive remedy for late delivery.
+9.4 The maximum aggregate liquidated damages shall not exceed 40% of the total contract value.
+
+10. LIMITATION OF LIABILITY
+10.1 Subject to Section 9, neither party's aggregate liability shall exceed the total contract value.
+10.2 Neither party shall be liable for indirect, consequential, or punitive damages except in cases of wilful misconduct.
+
+11. TERMINATION
+11.1 Either party may terminate for material breach with 14 days written notice.
+11.2 Customer may terminate for convenience with 30 days written notice.
+
+12. GOVERNING LAW
+12.1 This Agreement shall be governed by the laws of England and Wales.
+12.2 Disputes shall be subject to the exclusive jurisdiction of the courts of England and Wales.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+PEAKCOMMERCE PLC                    RAPIDSHIP LOGISTICS LTD.
+By: ___________________             By: ___________________
+Name: Emma Richardson               Name: Thomas Wright
+Title: COO                         Title: Managing Director
+Date: June 1, 2021                 Date: June 1, 2021

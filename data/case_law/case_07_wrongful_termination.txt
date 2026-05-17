@@ -1,0 +1,55 @@
+CASE NO. 2022-CV-09917
+MARCUS THOMPSON v. SAFETYGUARD MANUFACTURING INC.
+United States District Court, Eastern District of Pennsylvania
+Filed: August 7, 2022
+
+OPINION AND ORDER
+
+BACKGROUND
+
+Marcus Thompson ("Thompson") was employed as a Quality Assurance Manager at SafetyGuard Manufacturing Inc. ("SafetyGuard") from March 2018 to February 2022. SafetyGuard manufactures industrial safety equipment including fire suppression systems.
+
+In November 2021, Thompson discovered that a batch of fire suppression valves (Model FV-400) had failed internal pressure tests but were still being shipped to customers. Thompson raised this concern in writing to SafetyGuard's CEO on November 15, 2021, and again on December 3, 2021, warning that the defective valves posed a serious risk of malfunction during actual fire events.
+
+On January 10, 2022, SafetyGuard placed Thompson on a Performance Improvement Plan ("PIP") citing "failure to meet departmental objectives" and "inadequate team management." Thompson had received "Exceeds Expectations" ratings on all prior annual reviews. On February 15, 2022, SafetyGuard terminated Thompson citing failure to meet PIP requirements.
+
+Thompson alleges the termination was retaliatory and the PIPs were pretextual.
+
+ANALYSIS
+
+I. Whistleblower Retaliation Framework
+
+Under the burden-shifting framework established in McDonnell Douglas Corp. v. Green, Thompson must first establish a prima facie case of retaliation: (1) he engaged in protected activity, (2) he suffered an adverse employment action, and (3) there is a causal connection between the two.
+
+Thompson reported safety defects in a product that could endanger public safety. This constitutes protected activity under multiple statutes. The termination is clearly an adverse employment action. The temporal proximity — Thompson was placed on a PIP less than two months after his second written complaint — establishes a causal inference.
+
+II. Sarbanes-Oxley and Dodd-Frank Protections
+
+Thompson argues that SOX Section 806 (18 U.S.C. Section 1514A) protections apply. However, SOX whistleblower protections apply only to employees of publicly traded companies or their subsidiaries. SafetyGuard is a privately held corporation and is not subject to SOX reporting requirements.
+
+Dodd-Frank Section 922 provides whistleblower protections for individuals who report violations to the SEC. Thompson's complaint relates to product safety, not securities fraud, and was made internally rather than to the SEC. Dodd-Frank protections do not apply.
+
+III. State Law Protections
+
+Pennsylvania's Whistleblower Law (43 P.S. Section 1423) protects employees who report wrongdoing or waste to an employer or appropriate authority. Thompson's reports of shipping defective safety equipment constitute reports of "wrongdoing" — specifically, conduct that creates a substantial and specific danger to public health or safety.
+
+The court finds Thompson has established a prima facie case under Pennsylvania's Whistleblower Law.
+
+IV. Pretext Analysis
+
+SafetyGuard bears the burden of articulating a legitimate, non-retaliatory reason for the termination. SafetyGuard offers the PIP and performance deficiencies as justification.
+
+The court finds significant evidence of pretext: (a) Thompson received excellent performance reviews for three consecutive years before his complaints; (b) the PIP was initiated only 56 days after his second written safety complaint; (c) the PIP objectives were vague and subjective; (d) no other QA manager had been placed on a PIP in the company's history; and (e) SafetyGuard's HR director testified that the CEO specifically requested the PIP after receiving Thompson's second complaint letter.
+
+V. At-Will Employment Exception
+
+Pennsylvania follows the at-will employment doctrine but recognizes a public policy exception. Terminating an employee for reporting product defects that endanger public safety violates a clear mandate of public policy. The court finds this exception applies.
+
+ORDER
+
+1. SafetyGuard's motion for summary judgment is DENIED.
+2. Thompson's whistleblower retaliation claim under Pennsylvania Whistleblower Law PROCEEDS to trial.
+3. Thompson's SOX and Dodd-Frank claims are DISMISSED for lack of applicability.
+4. Thompson is awarded preliminary injunctive relief: reinstatement pending trial.
+
+SO ORDERED.

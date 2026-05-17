@@ -1,0 +1,48 @@
+CASE NO. 2020-CV-04521
+ALPHA CORP v. BETASUPPLY INC.
+United States District Court, Southern District of New York
+Filed: September 15, 2020
+
+OPINION AND ORDER
+
+BACKGROUND
+
+Alpha Corp ("Plaintiff") and BetaSupply Inc. ("Defendant") entered into a three-year supply agreement on March 1, 2018 (the "Agreement"), under which BetaSupply agreed to deliver electronic components to Alpha Corp on a quarterly basis. The total contract value was approximately $4.2 million.
+
+In March 2020, BetaSupply failed to deliver the Q1 shipment, citing factory shutdowns caused by the COVID-19 pandemic. BetaSupply invoked Section 14.2 of the Agreement, the force majeure clause, which reads:
+
+"Neither party shall be liable for any failure or delay in performing its obligations under this Agreement where such failure or delay results from Force Majeure Events, including but not limited to: natural disasters, acts of God, governmental action, war, terrorism, civil unrest, fire, flood, earthquake, or other circumstances beyond the reasonable control of the affected party."
+
+Alpha Corp contends that the force majeure clause does not cover pandemics because the clause does not specifically list "pandemic," "epidemic," or "disease" among the enumerated events.
+
+ANALYSIS
+
+I. Force Majeure Clause Interpretation
+
+The interpretation of force majeure clauses is a matter of contract law. Courts generally apply the principle of ejusdem generis — where general words follow specific words in a list, the general words are limited to the same class as the specific words.
+
+The clause lists "natural disasters, acts of God, governmental action" followed by the catch-all "other circumstances beyond the reasonable control of the affected party." The court must determine whether COVID-19 falls within the scope of this language.
+
+Several courts have addressed this issue. In Hess Corp. v. Port Authority Trans-Hudson Corp., the court held that a force majeure clause listing specific events without mentioning pandemics did not excuse performance due to COVID-19 where the clause lacked a broad catch-all provision. However, in JN Contemporary Art LLC v. Phillips Auctioneers LLC, the court found that COVID-19 could constitute a force majeure event under a clause that included "acts of God" and a broad catch-all.
+
+In this case, the clause includes both "acts of God" and "governmental action," as well as the catch-all phrase "other circumstances beyond the reasonable control of the affected party." The court finds that government-mandated factory shutdowns constitute "governmental action" within the meaning of Section 14.2. Furthermore, the catch-all provision is sufficiently broad to encompass a global pandemic that was unforeseeable at the time of contracting.
+
+II. Doctrine of Frustration of Purpose
+
+BetaSupply alternatively argues that the doctrine of frustration of purpose excuses its non-performance. Under New York law, the doctrine of frustration applies when an unforeseeable event destroys the purpose of the contract for one party.
+
+The court finds that BetaSupply's purpose — to manufacture and deliver components — was not destroyed but merely made more difficult. The factory shutdowns were temporary, and BetaSupply could have explored alternative manufacturing arrangements. Therefore, the doctrine of frustration does not apply independently.
+
+III. Damages
+
+Because the force majeure clause applies, BetaSupply is excused from liability for the period during which governmental shutdowns prevented performance. However, once shutdowns were lifted, BetaSupply was obligated to resume performance within a commercially reasonable time. The court finds that BetaSupply's three-month delay after factories reopened was unreasonable.
+
+Alpha Corp is entitled to damages for the delayed shipments after the force majeure period ended, calculated as the difference between the contract price and the cover price Alpha Corp paid to alternative suppliers, totaling $287,000.
+
+ORDER
+
+1. Defendant's motion to dismiss on force majeure grounds is GRANTED IN PART.
+2. Plaintiff's claim for damages during the force majeure period is DENIED.
+3. Plaintiff's claim for damages after the force majeure period is GRANTED in the amount of $287,000.
+
+SO ORDERED.

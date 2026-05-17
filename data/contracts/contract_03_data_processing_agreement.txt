@@ -1,0 +1,63 @@
+DATA PROCESSING AGREEMENT
+
+This Data Processing Agreement ("DPA") is entered into as of January 15, 2021, by and between:
+
+FinovaTech GmbH, a company incorporated in Germany ("Controller" or "Customer")
+and
+CloudSecure Ltd., a company incorporated in Ireland ("Processor" or "Service Provider")
+
+1. DEFINITIONS
+1.1 "Personal Data" means any information relating to an identified or identifiable natural person as defined in Article 4(1) GDPR.
+1.2 "Processing" has the meaning given in Article 4(2) GDPR.
+1.3 "Data Subjects" means the individuals whose Personal Data is processed.
+
+2. SCOPE AND PURPOSE
+2.1 The Processor shall process Personal Data solely for the purpose of providing cloud hosting and infrastructure services to the Controller.
+2.2 Categories of Data Subjects: Customer's end users and customers.
+2.3 Types of Personal Data: names, email addresses, account balances, transaction histories, identification documents.
+
+3. PROCESSOR OBLIGATIONS
+3.1 The Processor shall process Personal Data only on documented instructions from the Controller.
+3.2 The Processor shall ensure persons authorized to process Personal Data are bound by confidentiality obligations.
+3.3 The Processor shall assist the Controller in responding to data subject access requests.
+
+4. SUB-PROCESSORS
+4.1 The Processor shall not engage sub-processors without prior written consent of the Controller.
+4.2 The Processor shall impose equivalent data protection obligations on any approved sub-processor.
+
+5. DATA TRANSFERS
+5.1 Personal Data shall be processed within the European Economic Area unless otherwise agreed.
+5.2 Any transfer to a third country requires appropriate safeguards under Chapter V GDPR.
+
+6. DATA BREACH NOTIFICATION
+6.1 The Processor shall notify the Controller without undue delay (and no later than 48 hours) after becoming aware of a Personal Data breach.
+6.2 Notification shall include the nature of the breach, categories of data affected, estimated number of data subjects, and remedial measures taken.
+
+7. SECURITY MEASURES
+7.1 The Processor shall implement and maintain appropriate technical and organizational measures to ensure a level of security appropriate to the risk, including industry-standard security measures to protect Personal Data against unauthorized or unlawful processing and against accidental loss, destruction, or damage.
+7.2 Security measures shall include but not be limited to: access controls, network security monitoring, regular vulnerability assessments, and incident response procedures.
+
+8. AUDIT RIGHTS
+8.1 The Controller shall have the right to audit the Processor's compliance with this DPA upon 30 days written notice.
+
+9. DATA RETENTION AND DELETION
+9.1 Upon termination, the Processor shall delete or return all Personal Data within 90 days.
+
+10. TERM AND TERMINATION
+10.1 This DPA shall remain in effect for the duration of the underlying services agreement.
+10.2 Either party may terminate for material breach with 30 days notice.
+
+11. GOVERNING LAW
+11.1 This DPA shall be governed by the laws of the Federal Republic of Germany.
+
+12. LIABILITY
+12.1 The Processor's aggregate liability under this DPA shall not exceed the fees paid by Customer in the twelve (12) months preceding the claim.
+12.2 Neither party shall be liable for indirect or consequential damages.
+
+IN WITNESS WHEREOF, the parties have executed this DPA.
+
+FINOVATECH GmbH                    CLOUDSECURE LTD.
+By: ___________________             By: ___________________
+Name: Klaus Weber                   Name: Patrick O'Brien
+Title: CTO                         Title: VP Operations
+Date: January 15, 2021             Date: January 15, 2021

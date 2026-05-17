@@ -1,0 +1,59 @@
+NON-DISCLOSURE AGREEMENT
+
+This Non-Disclosure Agreement ("Agreement") is entered into as of January 10, 2017, by and between:
+
+VelocitySales Inc., an Illinois corporation ("Disclosing Party" or "Company")
+and
+James Harrington ("Receiving Party" or "Employee")
+
+1. PURPOSE
+This Agreement is entered into in connection with Employee's employment as Vice President of Sales.
+
+2. DEFINITION OF CONFIDENTIAL INFORMATION
+2.1 "Confidential Information" means all non-public information disclosed by the Company to Employee, including but not limited to:
+(a) Customer lists and customer contact information
+(b) Pricing information, pricing strategies, and discount structures
+(c) Business strategies, marketing plans, and sales methodologies
+(d) Financial data, revenue figures, and projections
+(e) Product roadmaps and development plans
+(f) Deal pipeline information and sales forecasts
+(g) Vendor and supplier information
+(h) Any information marked as "Confidential" or "Proprietary"
+(i) All proprietary information disclosed during employment
+
+3. OBLIGATIONS
+3.1 Employee shall hold all Confidential Information in strict confidence.
+3.2 Employee shall not disclose Confidential Information to any third party without prior written consent.
+3.3 Employee shall use Confidential Information solely for the purpose of performing employment duties.
+3.4 Employee shall not copy, reproduce, or remove Confidential Information from Company premises except as necessary for employment duties.
+
+4. EXCLUSIONS
+4.1 Confidential Information does not include information that:
+(a) Is or becomes publicly available through no fault of Employee
+(b) Was known to Employee prior to disclosure by Company
+(c) Is independently developed by Employee without use of Confidential Information
+(d) Is disclosed pursuant to a court order or legal requirement
+
+5. TERM
+5.1 Confidentiality obligations shall survive for two (2) years following termination of employment.
+5.2 Trade secret protections shall survive indefinitely as provided by applicable law.
+
+6. RETURN OF MATERIALS
+6.1 Upon termination of employment, Employee shall immediately return all documents, files, and materials containing Confidential Information.
+6.2 Employee shall permanently delete all electronic copies of Confidential Information from personal devices.
+
+7. REMEDIES
+7.1 Employee acknowledges that unauthorized disclosure would cause irreparable harm.
+7.2 Company shall be entitled to injunctive relief, actual damages, and attorneys' fees.
+7.3 In cases of willful and malicious misappropriation, exemplary damages up to two times actual damages may be awarded.
+
+8. GOVERNING LAW
+8.1 This Agreement shall be governed by the laws of the State of Illinois.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+VELOCITYSALES INC.                  EMPLOYEE
+By: ___________________             ___________________
+Name: Sandra Williams               James Harrington
+Title: General Counsel
+Date: January 10, 2017             Date: January 10, 2017

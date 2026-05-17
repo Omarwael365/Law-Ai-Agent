@@ -1,0 +1,43 @@
+INTELLECTUAL PROPERTY ASSIGNMENT AGREEMENT
+
+This Intellectual Property Assignment Agreement ("Agreement") is entered into as of June 1, 2020, by and between:
+
+NexaGen Labs Inc., a California corporation ("Company")
+and
+Dr. Priya Sharma ("Employee")
+
+1. EMPLOYMENT
+1.1 Employee is employed as Senior Data Scientist.
+1.2 Employee's primary responsibilities include developing machine learning models for agricultural biotechnology applications.
+
+2. DEFINITIONS
+2.1 "Inventions" means any ideas, inventions, discoveries, improvements, trade secrets, original works of authorship, designs, formulas, algorithms, software programs, data, know-how, and all related intellectual property rights.
+2.2 "Company Materials" means the Company's equipment, supplies, facilities, and trade secret information.
+
+3. ASSIGNMENT OF INVENTIONS
+3.1 Employee hereby assigns to the Company all right, title, and interest in and to any and all Inventions, whether or not patentable, that are conceived, developed, or reduced to practice by Employee, solely or jointly with others, during the period of Employee's employment with the Company.
+3.2 Employee shall promptly disclose all Inventions to the Company.
+3.3 Employee shall execute all documents necessary to perfect the Company's ownership of assigned Inventions.
+
+4. PRIOR INVENTIONS
+4.1 Employee has listed in Exhibit A all Inventions conceived prior to employment that Employee wishes to exclude from this Agreement.
+
+5. MORAL RIGHTS
+5.1 Employee waives all moral rights in any Inventions assigned under this Agreement.
+
+6. WORKS MADE FOR HIRE
+6.1 All works of authorship created by Employee in the scope of employment are works made for hire under the Copyright Act.
+
+7. COOPERATION
+7.1 Employee shall cooperate with the Company in obtaining patents, copyrights, and other protections for assigned Inventions, at the Company's expense.
+
+8. GOVERNING LAW
+8.1 This Agreement shall be governed by the laws of the State of California.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+NEXAGEN LABS INC.                   EMPLOYEE
+By: ___________________             ___________________
+Name: Michael Torres                Dr. Priya Sharma
+Title: CEO
+Date: June 1, 2020                 Date: June 1, 2020

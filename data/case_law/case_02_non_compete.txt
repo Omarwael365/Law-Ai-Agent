@@ -1,0 +1,46 @@
+CASE NO. 2021-CV-08834
+TECHSTART INC. v. SARAH CHEN
+Superior Court of California, County of Santa Clara
+Filed: June 22, 2021
+
+OPINION AND ORDER
+
+BACKGROUND
+
+Defendant Sarah Chen ("Chen") was employed as a Senior Software Engineer at TechStart Inc. ("TechStart") from January 2019 to March 2021. Upon hiring, Chen signed an Employment Agreement containing the following non-compete provision (Section 8.3):
+
+"For a period of two (2) years following termination of employment, Employee shall not, directly or indirectly, engage in, be employed by, consult for, or have any interest in any business that competes with the Company's SaaS products anywhere in the United States."
+
+In March 2021, Chen resigned and accepted a position with CloudRival Corp., a direct competitor based in Austin, Texas. The Employment Agreement contained a Texas choice-of-law provision (Section 15.1).
+
+TechStart seeks a temporary restraining order and preliminary injunction to enforce the non-compete clause.
+
+ANALYSIS
+
+I. California Business and Professions Code Section 16600
+
+Section 16600 provides: "Except as provided in this chapter, every contract by which anyone is restrained from engaging in a lawful profession, trade, or business of any kind is to that extent void."
+
+California courts have consistently interpreted Section 16600 broadly. In Edwards v. Arthur Andersen LLP (2008), the California Supreme Court held that Section 16600 invalidates non-compete agreements except in narrow statutory exceptions (sale of a business, dissolution of a partnership, or dissolution of an LLC).
+
+The court finds that Chen's non-compete clause falls squarely within the prohibition of Section 16600. The clause restrains Chen from engaging in her lawful profession — software engineering — for two years across the entire United States. This is precisely the type of restraint Section 16600 prohibits.
+
+II. Choice-of-Law Analysis
+
+TechStart argues that the Texas choice-of-law provision in Section 15.1 should govern, and that Texas courts generally enforce reasonable non-compete agreements under the Texas Business and Commerce Code Section 15.50.
+
+Under California's choice-of-law analysis (as set forth in Application Group, Inc. v. Hunter Group, Inc.), California law applies when: (1) the employee is based in California, (2) California has a materially greater interest in the dispute, and (3) the chosen state's law would violate California's fundamental public policy.
+
+The court finds all three factors weigh in favor of applying California law. Chen was employed in California, performed her work in California, and Section 16600 represents a fundamental public policy of the State of California that cannot be overridden by contractual choice-of-law provisions.
+
+III. Nationwide Scope and Overbreadth
+
+Even if Texas law were to apply, the non-compete clause would likely be unenforceable due to its overbroad scope. The clause prohibits Chen from working for any competitor "anywhere in the United States" in the entire SaaS industry — not limited to the specific products or clients she worked on. Texas courts require that non-competes contain reasonable limitations as to time, geographic area, and scope of activity. A nationwide ban on all SaaS employment for two years would likely be deemed unreasonable even under Texas's more permissive framework.
+
+ORDER
+
+1. TechStart's motion for a temporary restraining order is DENIED.
+2. TechStart's motion for a preliminary injunction is DENIED.
+3. The non-compete clause in Section 8.3 of the Employment Agreement is VOID under California Business and Professions Code Section 16600.
+
+SO ORDERED.

@@ -1,0 +1,59 @@
+MASTER SUBSCRIPTION AGREEMENT
+
+This Master Subscription Agreement ("Agreement") is entered into as of January 5, 2021, by and between:
+
+EnterpriseCloud Solutions LLC, a Delaware limited liability company ("Provider")
+and
+NimbleOps Inc., a Delaware corporation ("Customer")
+
+1. SUBSCRIPTION SERVICES
+1.1 Provider grants Customer a non-exclusive right to access the EnterpriseCloud Platform.
+1.2 Services include project management, team collaboration, and analytics modules.
+1.3 Service tier: Enterprise (up to 100 user seats).
+
+2. TERM
+2.1 Initial Term: Two (2) years commencing January 5, 2021.
+2.2 The Initial Term begins on the Effective Date and ends on January 4, 2023.
+
+3. FEES
+3.1 Annual subscription fee: $60,000 per year.
+3.2 Fees are due within 30 days of invoice.
+3.3 Late payments accrue interest at 1.5% per month.
+
+4. SERVICE LEVEL AGREEMENT
+4.1 Provider guarantees 99.9% uptime availability.
+4.2 Scheduled maintenance windows: Sundays 2:00-6:00 AM ET.
+4.3 Service credits for downtime exceeding SLA thresholds per Schedule B.
+
+5. DATA OWNERSHIP
+5.1 Customer retains all rights to Customer Data.
+5.2 Provider may use anonymized, aggregated data for product improvement.
+
+6. SECURITY
+6.1 Provider implements SOC 2 Type II certified security controls.
+6.2 Data encrypted in transit (TLS 1.2+) and at rest (AES-256).
+
+7. SUPPORT
+7.1 Enterprise support: 24/7 phone and email.
+7.2 Response times: Critical (1 hour), High (4 hours), Medium (8 hours), Low (24 hours).
+
+12. TERM AND RENEWAL
+12.1 This Agreement is effective for the Initial Term specified in Section 2.
+12.2 Early termination by Customer requires payment of remaining fees in the Initial Term.
+12.3 Provider may terminate for material breach with 30 days written notice.
+12.4 Automatic Renewal. This Agreement shall automatically renew for successive one-year periods at the then-current list price unless either party provides written notice of non-renewal at least ninety (90) days prior to the expiration of the then-current term. Written notice must be sent via certified mail or email to contracts@enterprisecloud.com.
+
+13. LIMITATION OF LIABILITY
+13.1 Provider's aggregate liability shall not exceed fees paid in the 12 months preceding the claim.
+13.2 Neither party shall be liable for indirect or consequential damages.
+
+14. GOVERNING LAW
+14.1 This Agreement shall be governed by the laws of the State of Delaware.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement.
+
+ENTERPRISECLOUD SOLUTIONS LLC       NIMBLEOPS INC.
+By: ___________________             By: ___________________
+Name: Jennifer Martinez              Name: Alex Novak
+Title: VP Sales                      Title: CEO
+Date: January 5, 2021              Date: January 5, 2021

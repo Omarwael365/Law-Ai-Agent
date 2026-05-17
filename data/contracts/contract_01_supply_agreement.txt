@@ -1,0 +1,59 @@
+SUPPLY AGREEMENT
+
+This Supply Agreement ("Agreement") is entered into as of March 1, 2018, by and between:
+
+Alpha Corp, a Delaware corporation ("Buyer")
+and
+BetaSupply Inc., a New York corporation ("Supplier")
+
+1. SUPPLY OBLIGATIONS
+Supplier agrees to manufacture and deliver electronic components ("Products") to Buyer on a quarterly basis for a period of three (3) years. Total estimated contract value: $4,200,000.
+
+2. DELIVERY TERMS
+2.1 Supplier shall deliver Products FOB Buyer's facility in quarterly shipments.
+2.2 Time is of the essence with respect to all delivery obligations.
+2.3 Late deliveries exceeding 15 business days shall constitute a material breach.
+
+3. PRICING
+3.1 Unit prices are fixed for the contract term as set forth in Exhibit A.
+3.2 Price adjustments require 90 days written notice and mutual agreement.
+
+4. QUALITY STANDARDS
+4.1 All Products shall conform to specifications in Exhibit B.
+4.2 Buyer may reject non-conforming Products within 30 days of delivery.
+
+5. WARRANTIES
+5.1 Supplier warrants Products are free from defects in material and workmanship.
+5.2 Warranty period: 24 months from delivery.
+
+6. INDEMNIFICATION
+6.1 Supplier shall indemnify Buyer against third-party claims arising from Product defects.
+6.2 Buyer shall indemnify Supplier against claims arising from Buyer's misuse of Products.
+
+7. LIMITATION OF LIABILITY
+7.1 Neither party's aggregate liability shall exceed the total contract value.
+7.2 Neither party shall be liable for indirect, consequential, or punitive damages.
+
+8. TERMINATION
+8.1 Either party may terminate for material breach with 30 days written notice and opportunity to cure.
+8.2 Either party may terminate for convenience with 90 days written notice.
+
+9. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of New York.
+
+14. FORCE MAJEURE
+14.1 Definition: "Force Majeure Event" means any event beyond the reasonable control of the affected party.
+14.2 Neither party shall be liable for any failure or delay in performing its obligations under this Agreement where such failure or delay results from Force Majeure Events, including but not limited to: natural disasters, acts of God, governmental action, war, terrorism, civil unrest, fire, flood, earthquake, or other circumstances beyond the reasonable control of the affected party.
+14.3 The affected party must notify the other party within 10 business days of the Force Majeure Event.
+14.4 If the Force Majeure Event continues for more than 180 days, either party may terminate this Agreement.
+
+15. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties and supersedes all prior negotiations and agreements.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+ALPHA CORP                          BETASUPPLY INC.
+By: ___________________             By: ___________________
+Name: John Mitchell                 Name: David Park
+Title: VP Procurement               Title: CEO
+Date: March 1, 2018                Date: March 1, 2018

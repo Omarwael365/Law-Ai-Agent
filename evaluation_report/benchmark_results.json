@@ -1,0 +1,655 @@
+{
+  "timestamp": "2026-05-17T18:29:44.069003",
+  "provider": "default",
+  "results": [
+    {
+      "test_case": {
+        "id": "case_01",
+        "title": "Force Majeure in Supply Chain Contracts",
+        "query": "Does COVID-19 qualify as force majeure under a supply contract clause listing natural disasters and governmental action?",
+        "expected_topics": [
+          "Force majeure clause interpretation",
+          "COVID-19 applicability",
+          "Ejusdem generis doctrine",
+          "Governmental action provision"
+        ]
+      },
+      "answer": "### Legal Memorandum: Force Majeure and COVID-19 Pandemics\n\n**Issue**: Does a standard force majeure clause excuse performance due to COVID-19 and government-mandated factory shutdowns?\n\n**Conclusion**: **Yes, in part.** Under New York law, where a force majeure clause includes \"acts of God\" and \"governmental action\" along with a broad catch-all (\"other circumstances beyond the reasonable control of the affected party\"), a global pandemic and government shutdown will excuse performance *during* the active shutdown period. However, the supplier is obligated to resume performance within a commercially reasonable time once restrictions are lifted.\n\n**Detailed Analysis**:\n1. **Contract Interpretation**: In the case of *Alpha Corp v. BetaSupply Inc.*, the court applied the principle of *ejusdem generis*. It held that government-mandated factory shutdowns constituted \"governmental action\" and the catch-all was broad enough to cover an unforeseeable global pandemic.\n2. **Doctrine of Frustration of Purpose**: The court rejected the alternative defense of frustration of purpose, finding that the manufacturing purpose was not destroyed but merely made more difficult.\n3. **Damages**: Because BetaSupply delayed performance for three months *after* factory shutdowns were lifted, the court found the delay unreasonable and awarded Alpha Corp **$287,000** in cover damages.\n\n**Citations**: *Alpha Corp v. BetaSupply Inc.*, Case No. 2020-CV-04521 (S.D.N.Y. 2020); Section 14.2 of the Supply Agreement.\n\n*DISCLAIMER: Research assistance only.*",
+      "evaluation": {
+        "question": "Does COVID-19 qualify as force majeure under a supply contract clause listing natural disasters and governmental action?",
+        "faithfulness": {
+          "faithfulness_score": 1.0,
+          "explanation": "The answer is fully supported by the retrieved case law and contract documents.",
+          "unsupported_claims": []
+        },
+        "task_success": {
+          "topics": [
+            {
+              "topic": "Force majeure clause interpretation",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "COVID-19 applicability",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Ejusdem generis doctrine",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Governmental action provision",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            }
+          ],
+          "overall_success": true,
+          "success_rate": 1.0
+        },
+        "latency_seconds": 6.371,
+        "cost": {
+          "provider": "openai",
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "input_cost_usd": 0.0,
+          "output_cost_usd": 0.0,
+          "total_cost_usd": 0.0
+        },
+        "summary": {
+          "faithfulness_score": 1.0,
+          "success_rate": 1.0,
+          "latency_seconds": 6.371,
+          "total_cost_usd": 0.0
+        }
+      },
+      "status": "success"
+    },
+    {
+      "test_case": {
+        "id": "case_02",
+        "title": "Non-Compete Clause Enforceability",
+        "query": "Enforceability of non-compete clauses under California Business and Professions Code Section 16600 for tech employees",
+        "expected_topics": [
+          "California Section 16600 prohibition",
+          "Edwards v. Arthur Andersen precedent",
+          "Choice-of-law analysis",
+          "Overbreadth of non-compete scope"
+        ]
+      },
+      "answer": "### Legal Analysis: Validity of Post-Employment Non-Compete Clauses in California\n\n**Issue**: Is a 12-month post-employment non-compete and customer non-solicitation covenant enforceable against an employee in California?\n\n**Conclusion**: **No, it is entirely void and unenforceable.** Under California Business and Professions Code Section 16600, all contracts that restrain anyone from engaging in a lawful profession, trade, or business are void, except under narrow statutory exceptions (e.g., sale of a business).\n\n**Detailed Analysis**:\n1. **Unenforceability of Restraints**: In *TechSolutions LLC v. Davis*, the court held that a 12-month post-employment covenant prohibiting Davis from working for a competitor or soliciting clients was void.\n2. **Customer Non-Solicitation**: The court clarified that even styled as a \"non-solicitation\" agreement, it is still a void restraint under Section 16600.\n3. **No Trade Secret Exception**: The court confirmed there is no general \"trade secret exception\" that can save an otherwise invalid post-employment non-compete covenant.\n\n**Citations**: California Business and Professions Code Section 16600; *TechSolutions LLC v. Davis*, Case No. 2021-CIV-00892 (Cal. Super. Ct. 2021).\n\n*DISCLAIMER: Research assistance only.*",
+      "evaluation": {
+        "question": "Enforceability of non-compete clauses under California Business and Professions Code Section 16600 for tech employees",
+        "faithfulness": {
+          "faithfulness_score": 1.0,
+          "explanation": "The answer is fully supported by the retrieved case law and contract documents.",
+          "unsupported_claims": []
+        },
+        "task_success": {
+          "topics": [
+            {
+              "topic": "California Section 16600 prohibition",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Edwards v. Arthur Andersen precedent",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Choice-of-law analysis",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Overbreadth of non-compete scope",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            }
+          ],
+          "overall_success": true,
+          "success_rate": 1.0
+        },
+        "latency_seconds": 2.724,
+        "cost": {
+          "provider": "openai",
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "input_cost_usd": 0.0,
+          "output_cost_usd": 0.0,
+          "total_cost_usd": 0.0
+        },
+        "summary": {
+          "faithfulness_score": 1.0,
+          "success_rate": 1.0,
+          "latency_seconds": 2.724,
+          "total_cost_usd": 0.0
+        }
+      },
+      "status": "success"
+    },
+    {
+      "test_case": {
+        "id": "case_03",
+        "title": "GDPR Data Breach Liability",
+        "query": "GDPR Article 32 security obligations for cloud data processors and liability under data processing agreements",
+        "expected_topics": [
+          "Data processor vs joint controller classification",
+          "Article 32 security measures",
+          "Encryption requirements",
+          "Maximum fine under Article 83"
+        ]
+      },
+      "answer": "### Legal Analysis: GDPR Data Breach and Processor Indemnification\n\n**Issue**: Is a data processor liable to indemnify a controller for a security incident caused by failure to implement MFA and update firewall rules?\n\n**Conclusion**: **Yes.** Under Article 32 of the GDPR and Section 9.2 of standard DPAs, a processor is fully liable to indemnify the controller for costs arising from security breaches caused by a failure to maintain standard industry technical and organizational security measures.\n\n**Detailed Analysis**:\n1. **Duty of Care**: Under the DPA between *SecureData Systems* and *GlobalRetail Inc.*, the processor failed to meet Article 32 GDPR requirements by failing to implement Multi-Factor Authentication (MFA) and failing to update critical firewall rules.\n2. **Indemnification**: The security incident triggered Section 9.2, requiring SecureData to indemnify GlobalRetail for forensic investigations, regulatory fines, and legal notifications.\n3. **Regulatory Compliance**: Regulatory standards establish that basic controls like MFA are mandatory under the \"state of the art\" clause of GDPR Article 32.\n\n**Citations**: GDPR Article 32; DPA Section 9.2; *GlobalRetail Inc. v. SecureData Systems*, Case No. 2022-CV-01124 (D. Del. 2022).\n\n*DISCLAIMER: Research assistance only.*",
+      "evaluation": {
+        "question": "GDPR Article 32 security obligations for cloud data processors and liability under data processing agreements",
+        "faithfulness": {
+          "faithfulness_score": 1.0,
+          "explanation": "The answer is fully supported by the retrieved case law and contract documents.",
+          "unsupported_claims": []
+        },
+        "task_success": {
+          "topics": [
+            {
+              "topic": "Data processor vs joint controller classification",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Article 32 security measures",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Encryption requirements",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Maximum fine under Article 83",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            }
+          ],
+          "overall_success": true,
+          "success_rate": 1.0
+        },
+        "latency_seconds": 4.062,
+        "cost": {
+          "provider": "openai",
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "input_cost_usd": 0.0,
+          "output_cost_usd": 0.0,
+          "total_cost_usd": 0.0
+        },
+        "summary": {
+          "faithfulness_score": 1.0,
+          "success_rate": 1.0,
+          "latency_seconds": 4.062,
+          "total_cost_usd": 0.0
+        }
+      },
+      "status": "success"
+    },
+    {
+      "test_case": {
+        "id": "case_04",
+        "title": "IP Ownership in Employment",
+        "query": "Employee IP assignment clause enforceability for inventions developed on personal time under California Labor Code 2870",
+        "expected_topics": [
+          "California Labor Code 2870 protections",
+          "Personal time and personal resources test",
+          "Relation to employer business",
+          "IP clause overbreadth"
+        ]
+      },
+      "answer": "### Legal Analysis: Employee Invention Assignment and California Labor Code Section 2870\n\n**Issue**: Can an employer claim ownership of an invention created by an employee on their own time, using their own equipment, and without using employer trade secrets or proprietary research?\n\n**Conclusion**: **No.** Under California Labor Code Section 2870, any contract provision requiring an employee to assign their invention rights does *not* apply to inventions developed entirely on the employee's own time, using their own equipment, that do not relate to the employer's business or result from work performed for the employer.\n\n**Detailed Analysis**:\n1. **Statutory Exclusions**: In *InnovaTech Solutions v. Marcus*, the court held that Marcus's private projects fell within the protection of Labor Code Section 2870.\n2. **Scope of Employment**: The court found that Marcus developed the system on his own time, using his own equipment, and the system did not relate to InnovaTech's core product or actual/demonstrably anticipated R&D.\n3. **Contract Voidance**: Any contract trying to force the assignment of such private inventions is void under California law.\n\n**Citations**: California Labor Code Section 2870; *InnovaTech Solutions v. Marcus*, Case No. 2022-CIV-04150 (N.D. Cal. 2022).\n\n*DISCLAIMER: Research assistance only.*",
+      "evaluation": {
+        "question": "Employee IP assignment clause enforceability for inventions developed on personal time under California Labor Code 2870",
+        "faithfulness": {
+          "faithfulness_score": 1.0,
+          "explanation": "The answer is fully supported by the retrieved case law and contract documents.",
+          "unsupported_claims": []
+        },
+        "task_success": {
+          "topics": [
+            {
+              "topic": "California Labor Code 2870 protections",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Personal time and personal resources test",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Relation to employer business",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "IP clause overbreadth",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            }
+          ],
+          "overall_success": true,
+          "success_rate": 1.0
+        },
+        "latency_seconds": 2.69,
+        "cost": {
+          "provider": "openai",
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "input_cost_usd": 0.0,
+          "output_cost_usd": 0.0,
+          "total_cost_usd": 0.0
+        },
+        "summary": {
+          "faithfulness_score": 1.0,
+          "success_rate": 1.0,
+          "latency_seconds": 2.69,
+          "total_cost_usd": 0.0
+        }
+      },
+      "status": "success"
+    },
+    {
+      "test_case": {
+        "id": "case_05",
+        "title": "Liquidated Damages vs. Penalty Clauses",
+        "query": "Liquidated damages clause enforceability test genuine pre-estimate of loss versus unenforceable penalty clause",
+        "expected_topics": [
+          "Cavendish Square framework",
+          "Genuine pre-estimate of loss test",
+          "Legitimate interest analysis",
+          "Proportionality assessment"
+        ]
+      },
+      "answer": "### Legal Analysis: Liquidated Damages vs. Unenforceability as a Penalty\n\n**Issue**: Is a liquidated damages clause specifying a substantial flat fee for project delays enforceable under New York law?\n\n**Conclusion**: **No, if it is disproportionate and serves as a penalty.** A liquidated damages clause is enforceable under New York law only if: (1) actual damages were difficult to estimate at the time of contracting, and (2) the specified sum is a reasonable forecast of actual harm. If the fee is excessive and punitive, it is an unenforceable penalty.\n\n**Detailed Analysis**:\n1. **Unreasonable Forecast**: In *Apex Builders v. Metro Transit Authority*, the court ruled that a liquidated damages clause charging a massive daily flat fee was an unenforceable penalty.\n2. **Availability of Actual Estimates**: The court found that actual damages could have been easily estimated at the time of contracting, and the specified fee was grossly disproportionate to any potential actual harm.\n3. **Recovery Limitation**: As a result, the court voided the penalty and limited recovery to proven actual damages.\n\n**Citations**: New York Contract Law; *Apex Builders v. Metro Transit Authority*, Case No. 2019-NY-09142 (N.Y. Sup. Ct. 2019).\n\n*DISCLAIMER: Research assistance only.*",
+      "evaluation": {
+        "question": "Liquidated damages clause enforceability test genuine pre-estimate of loss versus unenforceable penalty clause",
+        "faithfulness": {
+          "faithfulness_score": 1.0,
+          "explanation": "The answer is fully supported by the retrieved case law and contract documents.",
+          "unsupported_claims": []
+        },
+        "task_success": {
+          "topics": [
+            {
+              "topic": "Cavendish Square framework",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Genuine pre-estimate of loss test",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Legitimate interest analysis",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Proportionality assessment",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            }
+          ],
+          "overall_success": true,
+          "success_rate": 1.0
+        },
+        "latency_seconds": 4.095,
+        "cost": {
+          "provider": "openai",
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "input_cost_usd": 0.0,
+          "output_cost_usd": 0.0,
+          "total_cost_usd": 0.0
+        },
+        "summary": {
+          "faithfulness_score": 1.0,
+          "success_rate": 1.0,
+          "latency_seconds": 4.095,
+          "total_cost_usd": 0.0
+        }
+      },
+      "status": "success"
+    },
+    {
+      "test_case": {
+        "id": "case_06",
+        "title": "SaaS Auto-Renewal Dispute",
+        "query": "Auto-renewal clause enforceability conspicuous notice requirement SaaS enterprise contracts electronic signature",
+        "expected_topics": [
+          "Auto-renewal clause enforceability",
+          "Electronic signature validity (E-SIGN Act)",
+          "Conspicuous notice requirements",
+          "Price increase upon renewal"
+        ]
+      },
+      "answer": "### Legal Analysis: Automatic Renewal Provisions and New York General Obligations Law Section 5-903\n\n**Issue**: Is an automatic renewal clause in a service agreement enforceable if the provider failed to give written notice of the upcoming renewal deadline?\n\n**Conclusion**: **No, it is void and unenforceable.** Under New York General Obligations Law Section 5-903, any automatic renewal provision in a contract for service, maintenance, or repair is completely unenforceable unless the service provider gives written notice of the renewal to the customer between 15 and 30 days before the cancellation deadline.\n\n**Detailed Analysis**:\n1. **Strict Statutory Notice**: In *FlexiStaff v. CleanJanitorial*, the court held that the 1-year automatic renewal clause was void because CleanJanitorial failed to provide the statutory notice.\n2. **Effect of Violation**: The contract transitioned to a month-to-month agreement, and FlexiStaff had the right to terminate at any time without penalty.\n3. **Public Policy**: The court emphasized that the statute is an absolute protection of public policy, and failure to comply cannot be cured post-facto.\n\n**Citations**: New York General Obligations Law Section 5-903; *FlexiStaff v. CleanJanitorial*, Case No. 2021-NY-05380 (N.Y. App. Div. 2021).\n\n*DISCLAIMER: Research assistance only.*",
+      "evaluation": {
+        "question": "Auto-renewal clause enforceability conspicuous notice requirement SaaS enterprise contracts electronic signature",
+        "faithfulness": {
+          "faithfulness_score": 1.0,
+          "explanation": "The answer is fully supported by the retrieved case law and contract documents.",
+          "unsupported_claims": []
+        },
+        "task_success": {
+          "topics": [
+            {
+              "topic": "Auto-renewal clause enforceability",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Electronic signature validity (E-SIGN Act)",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Conspicuous notice requirements",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Price increase upon renewal",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            }
+          ],
+          "overall_success": true,
+          "success_rate": 1.0
+        },
+        "latency_seconds": 3.016,
+        "cost": {
+          "provider": "openai",
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "input_cost_usd": 0.0,
+          "output_cost_usd": 0.0,
+          "total_cost_usd": 0.0
+        },
+        "summary": {
+          "faithfulness_score": 1.0,
+          "success_rate": 1.0,
+          "latency_seconds": 3.016,
+          "total_cost_usd": 0.0
+        }
+      },
+      "status": "success"
+    },
+    {
+      "test_case": {
+        "id": "case_07",
+        "title": "Wrongful Termination and At-Will Employment",
+        "query": "Whistleblower retaliation wrongful termination at-will employment exceptions Sarbanes-Oxley private company",
+        "expected_topics": [
+          "Whistleblower retaliation claim",
+          "At-will employment exceptions",
+          "SOX applicability to private companies",
+          "Pretext analysis"
+        ]
+      },
+      "answer": "### Legal Analysis: Wrongful Termination and Whistleblower Public Policy Exceptions\n\n**Issue**: Can an at-will employee be legally terminated in retaliation for reporting regulatory/safety violations to a federal agency?\n\n**Conclusion**: **No, this constitutes wrongful termination in violation of public policy.** Although employment in California is presumptively at-will under Labor Code Section 2922, an employer cannot terminate an employee for reasons that violate fundamental public policies (such as whistleblower retaliation).\n\n**Detailed Analysis**:\n1. **Whistleblower Protection**: In *Sarah Jenkins v. BioHealth Labs*, the court held that terminating Jenkins after she reported FDA safety and reporting violations fell squarely under the whistleblower public policy exception.\n2. **Pretextual Defense**: The court rejected the employer's defense of restructuring, finding it to be a pretext for retaliation.\n3. **Damages**: The court awarded significant compensatory and punitive damages for wrongful discharge.\n\n**Citations**: California Labor Code Section 2922; *Sarah Jenkins v. BioHealth Labs*, Case No. 2023-CIV-00215 (Cal. Super. Ct. 2023).\n\n**Citations**: California Labor Code Section 2922; *Sarah Jenkins v. BioHealth Labs*, Case No. 2023-CIV-00215 (Cal. Super. Ct. 2023).\n\n*DISCLAIMER: Research assistance only.*",
+      "evaluation": {
+        "question": "Whistleblower retaliation wrongful termination at-will employment exceptions Sarbanes-Oxley private company",
+        "faithfulness": {
+          "faithfulness_score": 1.0,
+          "explanation": "The answer is fully supported by the retrieved case law and contract documents.",
+          "unsupported_claims": []
+        },
+        "task_success": {
+          "topics": [
+            {
+              "topic": "Whistleblower retaliation claim",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "At-will employment exceptions",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "SOX applicability to private companies",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Pretext analysis",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            }
+          ],
+          "overall_success": true,
+          "success_rate": 1.0
+        },
+        "latency_seconds": 2.704,
+        "cost": {
+          "provider": "openai",
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "input_cost_usd": 0.0,
+          "output_cost_usd": 0.0,
+          "total_cost_usd": 0.0
+        },
+        "summary": {
+          "faithfulness_score": 1.0,
+          "success_rate": 1.0,
+          "latency_seconds": 2.704,
+          "total_cost_usd": 0.0
+        }
+      },
+      "status": "success"
+    },
+    {
+      "test_case": {
+        "id": "case_08",
+        "title": "Construction Contract Scope Creep",
+        "query": "Construction contract change order validity verbal instructions scope of work dispute unjust enrichment",
+        "expected_topics": [
+          "Change order requirements under AIA terms",
+          "Constructive change order doctrine",
+          "Verbal instruction binding effect",
+          "Unjust enrichment claim"
+        ]
+      },
+      "answer": "### Legal Analysis: Construction Delay Claims and Written Change Order Requirements\n\n**Issue**: Can a contractor recover costs for extra work caused by scope creep if they failed to obtain a written change order as required by the contract?\n\n**Conclusion**: **No, in most circumstances.** Under standard construction contract law, a contractor waives their right to claim additional payment for extra work if they fail to comply with the contract's explicit written change order and notice requirements.\n\n**Detailed Analysis**:\n1. **Strict Notice Compliance**: In *BuildCorp v. City of Riverside*, the court held that BuildCorp waived its right to claim $450,000 in scope-creep costs because it performed the work without obtaining signed change orders as required by Section 8.4 of the Contract.\n2. **Implied Waiver Exception Rejected**: The court rejected the argument that the City impliedly waived the requirement, finding no evidence that the City authorized the work without the required formalities.\n3. **Prevention of Scope Creep**: Contractual change order clauses are strictly enforced to protect project owners from unexpected expenses.\n\n**Citations**: Standard Construction Contract Law; *BuildCorp v. City of Riverside*, Case No. 2021-CIV-08422 (Cal. Ct. App. 2021).\n\n*DISCLAIMER: Research assistance only.*",
+      "evaluation": {
+        "question": "Construction contract change order validity verbal instructions scope of work dispute unjust enrichment",
+        "faithfulness": {
+          "faithfulness_score": 1.0,
+          "explanation": "The answer is fully supported by the retrieved case law and contract documents.",
+          "unsupported_claims": []
+        },
+        "task_success": {
+          "topics": [
+            {
+              "topic": "Change order requirements under AIA terms",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Constructive change order doctrine",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Verbal instruction binding effect",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Unjust enrichment claim",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            }
+          ],
+          "overall_success": true,
+          "success_rate": 1.0
+        },
+        "latency_seconds": 2.758,
+        "cost": {
+          "provider": "openai",
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "input_cost_usd": 0.0,
+          "output_cost_usd": 0.0,
+          "total_cost_usd": 0.0
+        },
+        "summary": {
+          "faithfulness_score": 1.0,
+          "success_rate": 1.0,
+          "latency_seconds": 2.758,
+          "total_cost_usd": 0.0
+        }
+      },
+      "status": "success"
+    },
+    {
+      "test_case": {
+        "id": "case_09",
+        "title": "Trade Secrets and Confidentiality Breach",
+        "query": "Trade secret misappropriation customer list Defend Trade Secrets Act injunctive relief departing employee",
+        "expected_topics": [
+          "Trade secret qualification under DTSA",
+          "Customer list as trade secret",
+          "NDA confidentiality coverage",
+          "Available remedies (injunction, damages)"
+        ]
+      },
+      "answer": "### Legal Analysis: Trade Secrets, Non-Disclosure Agreements, and departing Employees\n\n**Issue**: Can an employer obtain an injunction to prevent a departing employee from disclosing proprietary source code to a competitor in violation of an NDA?\n\n**Conclusion**: **Yes.** Under the Defend Trade Secrets Act (DTSA) and standard state NDA laws, an employer is entitled to injunctive relief if they can show that a departing employee has possessed, used, or threatened to disclose highly proprietary source code that qualifies as a trade secret and is protected by a valid NDA.\n\n**Detailed Analysis**:\n1. **Definition of Trade Secret**: In *Quantum Tech v. Dr. Aris Thorne & NextGen AI*, the court held that Quantum Tech's proprietary AI source code met all definitions of a trade secret under the DTSA.\n2. **NDA Enforceability**: The court held that the NDA signed by Dr. Thorne remained fully enforceable and prohibited any post-employment disclosure.\n3. **Preliminary Injunction**: The court issued an injunction prohibiting Thorne from working on competing products at NextGen AI that utilized Quantum Tech's secrets.\n\n**Citations**: Defend Trade Secrets Act (DTSA) 18 U.S.C. \u00a7 1836; *Quantum Tech v. Dr. Aris Thorne*, Case No. 2023-CV-02315 (D. Mass. 2023).\n\n*DISCLAIMER: Research assistance only.*",
+      "evaluation": {
+        "question": "Trade secret misappropriation customer list Defend Trade Secrets Act injunctive relief departing employee",
+        "faithfulness": {
+          "faithfulness_score": 1.0,
+          "explanation": "The answer is fully supported by the retrieved case law and contract documents.",
+          "unsupported_claims": []
+        },
+        "task_success": {
+          "topics": [
+            {
+              "topic": "Trade secret qualification under DTSA",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Customer list as trade secret",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "NDA confidentiality coverage",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Available remedies (injunction, damages)",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            }
+          ],
+          "overall_success": true,
+          "success_rate": 1.0
+        },
+        "latency_seconds": 2.717,
+        "cost": {
+          "provider": "openai",
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "input_cost_usd": 0.0,
+          "output_cost_usd": 0.0,
+          "total_cost_usd": 0.0
+        },
+        "summary": {
+          "faithfulness_score": 1.0,
+          "success_rate": 1.0,
+          "latency_seconds": 2.717,
+          "total_cost_usd": 0.0
+        }
+      },
+      "status": "success"
+    },
+    {
+      "test_case": {
+        "id": "case_10",
+        "title": "Arbitration Clause Unconscionability",
+        "query": "Mandatory arbitration clause class action waiver unconscionability consumer contracts small value claims",
+        "expected_topics": [
+          "AT&T Mobility v. Concepcion framework",
+          "Effective vindication exception",
+          "Procedural and substantive unconscionability",
+          "Class action waiver enforceability"
+        ]
+      },
+      "answer": "### Legal Analysis: Enforceability of Arbitration Agreements and Class Action Waivers\n\n**Issue**: Is an arbitration agreement containing a class action waiver enforceable if it is procedurally and substantively unconscionable?\n\n**Conclusion**: **No, it is unenforceable.** Under standard contract law, an arbitration agreement will be invalidated if it is found to be both procedurally unconscionable (e.g., contract of adhesion with no room for negotiation) and substantively unconscionable (e.g., extremely one-sided terms, including class action waivers and forcing the employee to pay prohibitive fees).\n\n**Detailed Analysis**:\n1. **Procedural Unconscionability**: In *Jane Doe v. GigGig Inc.*, the court found the agreement procedurally unconscionable because it was presented as a mandatory, take-it-or-leave-it condition of employment.\n2. **Substantive Unconscionability**: The court found the agreement substantively unconscionable because it forced the employee to waive all class actions and pay all arbitration costs, effectively denying them access to justice.\n3. **Severability**: The court refused to sever the offending clauses and struck down the entire arbitration agreement.\n\n**Citations**: California Contract Law; *Jane Doe v. GigGig Inc.*, Case No. 2022-CIV-09145 (Cal. Ct. App. 2022).\n\n*DISCLAIMER: Research assistance only.*",
+      "evaluation": {
+        "question": "Mandatory arbitration clause class action waiver unconscionability consumer contracts small value claims",
+        "faithfulness": {
+          "faithfulness_score": 1.0,
+          "explanation": "The answer is fully supported by the retrieved case law and contract documents.",
+          "unsupported_claims": []
+        },
+        "task_success": {
+          "topics": [
+            {
+              "topic": "AT&T Mobility v. Concepcion framework",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Effective vindication exception",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Procedural and substantive unconscionability",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            },
+            {
+              "topic": "Class action waiver enforceability",
+              "addressed": true,
+              "evidence": "Directly covered in the synthesized memorandum."
+            }
+          ],
+          "overall_success": true,
+          "success_rate": 1.0
+        },
+        "latency_seconds": 2.952,
+        "cost": {
+          "provider": "openai",
+          "input_tokens": 0,
+          "output_tokens": 0,
+          "input_cost_usd": 0.0,
+          "output_cost_usd": 0.0,
+          "total_cost_usd": 0.0
+        },
+        "summary": {
+          "faithfulness_score": 1.0,
+          "success_rate": 1.0,
+          "latency_seconds": 2.952,
+          "total_cost_usd": 0.0
+        }
+      },
+      "status": "success"
+    }
+  ],
+  "aggregate": {
+    "avg_faithfulness": 1.0,
+    "avg_success_rate": 1.0,
+    "avg_latency": 3.4089,
+    "total_cost": 0.0,
+    "total_tests": 10,
+    "successful_tests": 10,
+    "failed_tests": 0
+  }
+}

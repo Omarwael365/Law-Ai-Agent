@@ -1,0 +1,74 @@
+TERMS OF SERVICE
+
+StreamPlus Inc.
+Effective Date: January 1, 2023
+
+PLEASE READ THESE TERMS OF SERVICE CAREFULLY BEFORE USING THE STREAMPLUS SERVICE.
+
+1. ACCEPTANCE OF TERMS
+1.1 By accessing or using StreamPlus ("Service"), you agree to be bound by these Terms of Service ("Terms").
+1.2 If you do not agree to these Terms, you may not use the Service.
+
+2. THE SERVICE
+2.1 StreamPlus provides a video streaming platform with access to movies, television shows, and original content.
+2.2 Content availability varies by region and subscription tier.
+
+3. SUBSCRIPTION TIERS
+3.1 Basic: $9.99/month — standard definition, 1 screen
+3.2 Standard: $14.99/month — high definition, 2 screens
+3.3 Premium: $24.99/month — ultra high definition, 4 screens, offline downloads
+
+4. BILLING
+4.1 Subscription fees are billed monthly in advance.
+4.2 Payment methods accepted: credit card, debit card, PayPal.
+4.3 You authorize StreamPlus to charge your payment method for recurring fees.
+
+5. FREE TRIAL
+5.1 New subscribers may be eligible for a 7-day free trial.
+5.2 You will be charged the applicable subscription fee at the end of the trial unless you cancel.
+
+6. ACCOUNT SECURITY
+6.1 You are responsible for maintaining the confidentiality of your account credentials.
+6.2 You agree to notify StreamPlus immediately of any unauthorized use.
+
+7. CONTENT LICENSE
+7.1 StreamPlus grants you a limited, non-exclusive, non-transferable license to access content for personal, non-commercial use.
+7.2 You may not download, copy, distribute, or publicly perform content except as expressly permitted.
+
+8. PRIVACY
+8.1 Your use of the Service is subject to our Privacy Policy.
+
+9. MODIFICATIONS
+9.1 StreamPlus reserves the right to modify these Terms at any time.
+9.2 Continued use after modifications constitutes acceptance.
+
+10. INTELLECTUAL PROPERTY
+10.1 All content and technology are owned by StreamPlus or its licensors.
+
+11. TERMINATION
+11.1 You may cancel your subscription at any time through your account settings.
+11.2 StreamPlus may suspend or terminate your account for violation of these Terms.
+
+14. DISPUTE RESOLUTION
+
+14.1 Binding Arbitration. Any dispute, claim, or controversy arising out of or relating to these Terms or the Service shall be resolved exclusively by binding arbitration administered by the American Arbitration Association ("AAA") under its Consumer Arbitration Rules. The arbitration shall be conducted in San Francisco, California, before a single arbitrator.
+
+14.2 Arbitration Fees. The party initiating arbitration shall pay the applicable AAA filing fee. Each party shall bear its own attorneys' fees and costs unless the arbitrator determines otherwise.
+
+14.3 Class Action Waiver. YOU AGREE THAT ANY DISPUTE RESOLUTION PROCEEDINGS WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS, CONSOLIDATED, OR REPRESENTATIVE ACTION. You waive any right to participate in a class action lawsuit or class-wide arbitration against StreamPlus.
+
+14.4 Exceptions. Notwithstanding Section 14.1, either party may seek injunctive relief in any court of competent jurisdiction.
+
+14.5 Opt-Out. You may opt out of this arbitration agreement by sending written notice to legal@streamplus.com within 30 days of first accepting these Terms.
+
+15. LIMITATION OF LIABILITY
+15.1 StreamPlus's total liability shall not exceed the fees paid by you in the 12 months preceding the claim.
+15.2 StreamPlus shall not be liable for indirect, incidental, or consequential damages.
+
+16. GOVERNING LAW
+16.1 These Terms shall be governed by the laws of the State of California.
+
+17. CONTACT
+17.1 Questions about these Terms may be directed to legal@streamplus.com.
+
+Last Updated: January 1, 2023

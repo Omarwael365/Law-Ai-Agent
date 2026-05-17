@@ -1,0 +1,49 @@
+CASE NO. 2022-CV-03378
+GREENFIELD PROPERTIES LLC v. SUMMIT BUILDERS INC.
+United States District Court, District of Colorado
+Filed: October 12, 2022
+
+OPINION AND ORDER
+
+BACKGROUND
+
+Greenfield Properties LLC ("Greenfield") contracted with Summit Builders Inc. ("Summit") to construct a 45,000 square-foot commercial office building in Denver, Colorado. The parties executed an AIA A101 Standard Form Agreement on February 1, 2021, with a fixed contract price of $5,000,000 and a completion date of December 31, 2021.
+
+During construction, Greenfield's project manager verbally instructed Summit to make 23 modifications including upgraded HVAC systems, additional electrical capacity, premium facade materials, and reconfigured floor plans. Summit documented each verbal instruction in internal records and completed all modifications.
+
+Summit submitted change order requests totaling $1,200,000 for the additional work. Greenfield refused payment, arguing that: (1) the modifications fell within the original scope; (2) no formal written change orders were executed; and (3) verbal instructions do not constitute binding change orders under the AIA contract.
+
+ANALYSIS
+
+I. Change Order Requirements Under AIA A201
+
+AIA Document A201-2017 (General Conditions), Section 7.2.1, provides: "A Change Order is a written instrument prepared by the Architect and signed by the Owner, Contractor, and Architect stating their agreement upon all of the following: a change in the Work; the amount of the adjustment, if any, in the Contract Sum; and the extent of the adjustment, if any, in the Contract Time."
+
+The contract clearly requires written, signed change orders. Summit did not obtain written change orders for any of the 23 modifications. Under strict contractual interpretation, Summit's failure to secure written change orders would ordinarily preclude recovery.
+
+II. Verbal Instructions as Constructive Change Orders
+
+However, courts recognize the doctrine of constructive change orders. A constructive change order arises when the owner directs additional work outside the original scope without executing a formal change order. The contractor may recover if it can demonstrate: (1) the work was outside the original contract scope; (2) the owner or its authorized representative directed the work; (3) the contractor performed the work; and (4) the contractor did not volunteer the work gratuitously.
+
+Summit presents evidence that Greenfield's project manager issued specific verbal instructions for each modification during weekly site meetings. Meeting minutes recorded by both parties confirm the instructions. The project manager had apparent authority to direct changes based on his role and prior course of dealing.
+
+III. Scope of Work Interpretation
+
+Greenfield argues the modifications fell within the original scope. The court applies the "cardinal change" doctrine — a change is outside scope if it fundamentally alters the nature of the contracted work.
+
+The original specifications called for standard HVAC, basic electrical, and standard facade materials. The modifications specified premium systems significantly exceeding original specifications. The court finds that 19 of the 23 modifications constitute work outside the original scope. Four modifications (minor electrical outlet relocations) fall within reasonable scope interpretation.
+
+IV. Unjust Enrichment
+
+Even absent contractual recovery, Summit may recover under unjust enrichment where: (1) a benefit was conferred on the defendant; (2) the defendant appreciated the benefit; and (3) the defendant accepted and retained the benefit under circumstances making it inequitable to retain it without payment.
+
+Greenfield is currently occupying the completed building with all modifications installed and functional. The premium HVAC, upgraded electrical, and facade improvements add measurable value to the property. It would be inequitable to allow Greenfield to retain these improvements without compensation.
+
+ORDER
+
+1. Summit's claim for breach of contract on the 19 out-of-scope modifications is GRANTED.
+2. Summit is awarded $1,045,000 for the 19 out-of-scope modifications.
+3. Summit's claim for the 4 in-scope modifications is DENIED.
+4. Greenfield shall pay $1,045,000 within 45 days.
+
+SO ORDERED.

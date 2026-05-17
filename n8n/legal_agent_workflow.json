@@ -1,0 +1,150 @@
+{
+  "name": "Legal AI Assistant — N8N Workflow",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "legal-query",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "webhook-trigger",
+      "name": "Webhook Trigger",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [250, 300]
+    },
+    {
+      "parameters": {
+        "jsCode": "const query = $input.first().json.body.query;\nconst docType = $input.first().json.body.doc_type || 'all';\n\nreturn [{\n  json: {\n    query: query,\n    doc_type: docType,\n    timestamp: new Date().toISOString()\n  }\n}];"
+      },
+      "id": "parse-input",
+      "name": "Parse User Query",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [470, 300]
+    },
+    {
+      "parameters": {
+        "url": "http://localhost:8000/api/search",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "query",
+              "value": "={{ $json.query }}"
+            },
+            {
+              "name": "doc_type",
+              "value": "={{ $json.doc_type }}"
+            },
+            {
+              "name": "top_k",
+              "value": "5"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "vector-search",
+      "name": "Vector Store Search",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4,
+      "position": [690, 300],
+      "notes": "Calls the RAG retrieval endpoint to search case law and contracts"
+    },
+    {
+      "parameters": {
+        "jsCode": "const query = $('Parse User Query').first().json.query;\nconst searchResults = $input.first().json;\n\nlet context = '';\nif (searchResults.documents) {\n  context = searchResults.documents.map((doc, i) => \n    `[Source ${i+1}: ${doc.doc_id}]\\n${doc.content}`\n  ).join('\\n\\n---\\n\\n');\n}\n\nconst prompt = `You are a Legal Research Assistant. Use the following context to answer the legal question.\\n\\nCONTEXT:\\n${context}\\n\\nQUESTION: ${query}\\n\\nProvide a comprehensive legal analysis with citations.\\n\\nDISCLAIMER: This is research assistance only. Consult a licensed attorney.`;\n\nreturn [{ json: { prompt: prompt, query: query, num_sources: searchResults.documents?.length || 0 } }];"
+      },
+      "id": "build-prompt",
+      "name": "Build Legal Prompt",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [910, 300]
+    },
+    {
+      "parameters": {
+        "resource": "chat",
+        "model": "gpt-4o",
+        "messages": {
+          "values": [
+            {
+              "content": "={{ $json.prompt }}"
+            }
+          ]
+        },
+        "options": {
+          "temperature": 0.1,
+          "maxTokens": 2048
+        }
+      },
+      "id": "openai-generate",
+      "name": "OpenAI GPT-4o",
+      "type": "@n8n/n8n-nodes-langchain.openAi",
+      "typeVersion": 1,
+      "position": [1130, 300],
+      "notes": "Generates the legal analysis using GPT-4o"
+    },
+    {
+      "parameters": {
+        "jsCode": "const answer = $input.first().json.message?.content || $input.first().json.choices?.[0]?.message?.content || 'No response generated';\nconst query = $('Build Legal Prompt').first().json.query;\nconst numSources = $('Build Legal Prompt').first().json.num_sources;\n\nreturn [{\n  json: {\n    query: query,\n    answer: answer,\n    sources_used: numSources,\n    timestamp: new Date().toISOString(),\n    model: 'gpt-4o',\n    disclaimer: 'This is research assistance only. Consult a licensed attorney.'\n  }\n}];"
+      },
+      "id": "format-response",
+      "name": "Format Response",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1350, 300]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ JSON.stringify($json) }}",
+        "options": {}
+      },
+      "id": "webhook-response",
+      "name": "Respond to Webhook",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1,
+      "position": [1570, 300]
+    }
+  ],
+  "connections": {
+    "Webhook Trigger": {
+      "main": [
+        [{ "node": "Parse User Query", "type": "main", "index": 0 }]
+      ]
+    },
+    "Parse User Query": {
+      "main": [
+        [{ "node": "Vector Store Search", "type": "main", "index": 0 }]
+      ]
+    },
+    "Vector Store Search": {
+      "main": [
+        [{ "node": "Build Legal Prompt", "type": "main", "index": 0 }]
+      ]
+    },
+    "Build Legal Prompt": {
+      "main": [
+        [{ "node": "OpenAI GPT-4o", "type": "main", "index": 0 }]
+      ]
+    },
+    "OpenAI GPT-4o": {
+      "main": [
+        [{ "node": "Format Response", "type": "main", "index": 0 }]
+      ]
+    },
+    "Format Response": {
+      "main": [
+        [{ "node": "Respond to Webhook", "type": "main", "index": 0 }]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "meta": {
+    "instanceId": "legal-ai-assistant-workflow"
+  }
+}

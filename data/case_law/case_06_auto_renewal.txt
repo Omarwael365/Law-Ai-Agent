@@ -1,0 +1,38 @@
+CASE NO. 2023-CV-05512
+NIMBLEOPS INC. v. ENTERPRISECLOUD SOLUTIONS LLC
+United States District Court, District of Delaware
+Filed: April 18, 2023
+
+OPINION AND ORDER
+
+BACKGROUND
+
+NimbleOps Inc. ("NimbleOps"), a startup with 45 employees, subscribed to EnterpriseCloud Solutions LLC's ("EnterpriseCloud") SaaS platform for project management in January 2021. The subscription was for a two-year term at $60,000 per year.
+
+NimbleOps's CEO electronically signed a 40-page Master Subscription Agreement ("MSA") via DocuSign on January 5, 2021. Section 12.4 of the MSA, located on page 34, stated:
+
+"Automatic Renewal. This Agreement shall automatically renew for successive one-year periods at the then-current list price unless either party provides written notice of non-renewal at least ninety (90) days prior to the expiration of the then-current term."
+
+In January 2023, NimbleOps was charged $120,000 for a third year (the price had doubled). NimbleOps claims it was unaware of the auto-renewal clause.
+
+ANALYSIS
+
+I. Enforceability of the Auto-Renewal Clause
+
+Under general contract law, an auto-renewal clause is enforceable if it was part of a validly formed contract and the subscribing party had reasonable notice. NimbleOps is a business entity, and its CEO signed the agreement. Courts hold that a party who signs a contract is bound by its terms even if unread.
+
+II. Electronic Signature Validity
+
+Under the E-SIGN Act (15 U.S.C. Section 7001) and UETA, electronic signatures are legally equivalent to handwritten signatures. The DocuSign audit trail confirmed the CEO accessed every page.
+
+III. Price Increase Upon Renewal
+
+The clause permits renewal at "then-current list price." However, a 100% price increase without advance notice raises procedural unconscionability concerns. The court finds the renewal enforceable at the original $60,000 rate.
+
+ORDER
+
+1. The auto-renewal clause is ENFORCEABLE as to the renewal mechanism.
+2. The electronic signature is VALID.
+3. Renewal price is reduced to $60,000. EnterpriseCloud shall refund $60,000.
+
+SO ORDERED.

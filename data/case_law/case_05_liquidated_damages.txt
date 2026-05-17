@@ -1,0 +1,63 @@
+CASE NO. 2021-EWHC-2987 (Comm)
+RAPIDSHIP LOGISTICS LTD v. PEAKCOMMERCE PLC
+High Court of Justice, Queen's Bench Division, Commercial Court
+Filed: December 3, 2021
+
+JUDGMENT
+
+FACTS
+
+PeakCommerce PLC ("PeakCommerce"), an e-commerce platform operator, entered into a logistics services agreement (the "Agreement") with RapidShip Logistics Ltd ("RapidShip") on June 1, 2021, for the delivery of packages during the peak holiday season from October through December 2021.
+
+The Agreement specified that RapidShip would deliver 10,000 packages within agreed timeframes. Section 9.2 of the Agreement contained the following liquidated damages provision:
+
+"In the event of delay in delivery, the Service Provider shall pay to the Customer liquidated damages in the amount of £50 per package per day of delay, as a genuine pre-estimate of the loss that would be suffered by the Customer."
+
+RapidShip delivered 2,000 packages on time but was 5 days late on the remaining 8,000 packages due to vehicle fleet breakdowns and driver shortages. PeakCommerce asserted a liquidated damages claim of £2,000,000 (8,000 packages × £50 × 5 days).
+
+RapidShip argues that the clause is an unenforceable penalty.
+
+ANALYSIS
+
+I. The Legal Framework: Liquidated Damages vs. Penalties
+
+The law regarding liquidated damages and penalties was significantly clarified by the Supreme Court in Cavendish Square Holding BV v Makdessi [2015] UKSC 67 and ParkingEye Ltd v Beavis [2015] UKSC 67. The Supreme Court departed from the traditional Dunlop test and held that a clause will be unenforceable as a penalty if it imposes a detriment on the contract-breaker out of all proportion to any legitimate interest of the innocent party in the enforcement of the primary obligation.
+
+The test is whether the clause is "extravagant, exorbitant, or unconscionable" having regard to the innocent party's legitimate interest.
+
+II. PeakCommerce's Legitimate Interest
+
+PeakCommerce has a legitimate interest beyond mere compensation for direct financial loss. Late deliveries during the peak holiday season cause:
+
+1. Direct financial loss: refund requests, chargebacks, and lost repeat customers
+2. Reputational damage: negative reviews during the most visible sales period
+3. Contractual liability: PeakCommerce's own obligations to sellers on its platform
+4. Customer acquisition cost: the cost of acquiring each customer averaged £45, and late deliveries result in permanent customer loss
+
+PeakCommerce presented evidence that its average revenue per customer per holiday season was £180, and that 60% of customers who experienced late delivery did not return. The estimated actual loss from 8,000 late deliveries was approximately £864,000 in lost customer lifetime value, plus £120,000 in direct refunds and chargebacks — totaling approximately £984,000.
+
+III. Proportionality Analysis
+
+The liquidated damages claim of £2,000,000 is approximately twice the estimated actual loss of £984,000. The court must assess whether this disparity renders the clause a penalty.
+
+The £50 per package per day rate, when applied to the specific facts of this case, produces a result that is disproportionate to PeakCommerce's legitimate interest. While a daily rate mechanism is commercially reasonable for incentivizing timely performance, the cumulative effect of £50 × 5 days = £250 per package significantly exceeds the average customer value of £180.
+
+However, the court notes that the clause was freely negotiated between sophisticated commercial parties of comparable bargaining power. Neither party was a consumer. RapidShip had the opportunity to negotiate the rate and accepted it.
+
+IV. Comparison: English vs. American Approach
+
+For reference, American courts apply the Restatement (Second) of Contracts § 356, which requires that liquidated damages must be reasonable in light of the anticipated or actual loss and that the harm must be difficult to prove. Under the UCC § 2-718, the amount must be reasonable in light of anticipated or actual harm. Several US courts have struck down per-day liquidated damages clauses where the cumulative amount bore no reasonable relationship to foreseeable damages.
+
+V. Determination
+
+Applying the Cavendish Square framework, the court finds that the liquidated damages clause, while producing a high result in this case, is not "extravagant, exorbitant, or unconscionable" when considered against PeakCommerce's broad legitimate interests, including reputational harm and lost customer lifetime value.
+
+However, the court exercises its discretion to reduce the damages to reflect the five-day delay more proportionately. The court awards £1,200,000 — representing a rate of £30 per package per day for 8,000 packages over 5 days, which the court considers proportionate to PeakCommerce's legitimate interests.
+
+ORDER
+
+1. The liquidated damages clause in Section 9.2 is ENFORCEABLE in principle.
+2. Damages are assessed at £1,200,000, reflecting a proportionate adjustment.
+3. RapidShip shall pay £1,200,000 to PeakCommerce within 28 days.
+
+SO ORDERED.
